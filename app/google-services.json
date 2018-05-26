@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "987401597610",
+    "firebase_url": "https://stress-oppress.firebaseio.com",
+    "project_id": "stress-oppress",
+    "storage_bucket": "stress-oppress.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987401597610:android:febafe416eb87547",
+        "android_client_info": {
+          "package_name": "com.solutions.stressoppress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987401597610-agkdkjlph60sdm9ftc5ojf3dcc9saf2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solutions.stressoppress",
+            "certificate_hash": "26ca076c126007c5f56eacb68b7ace49e2526f03"
+          }
+        },
+        {
+          "client_id": "987401597610-5si413fp1rtb890b48gbfp2cacpo8s3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXEcv5sEEwqYE41aMiW6sZiH-TU2dwWOU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987401597610-5si413fp1rtb890b48gbfp2cacpo8s3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

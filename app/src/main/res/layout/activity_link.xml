@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/linkText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="145dp"
+        android:text="Happy Gilmore"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="200dp"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/toRating"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="120dp"
+        android:onClick="toRatingScreen"
+        android:text="Done"
+        android:textSize="20dp" />
+</RelativeLayout>
